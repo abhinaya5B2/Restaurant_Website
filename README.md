@@ -35,7 +35,7 @@ The design is simple, responsive, and easy to extend — perfect for practice or
 ---
 
 ## 🌐 How to Run  
-
+**[Live Server](./http://127.0.0.1:5500/index.html#)**  
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/<abhinaya5B2>/Restaurant_Website.git
