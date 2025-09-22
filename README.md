@@ -36,7 +36,7 @@ The design is simple, responsive, and easy to extend — perfect for practice or
 
 ## 🌐 How to Run  
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/<your-username>/Restaurant_Website.git
-   cd Restaurant_Website
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/<abhinaya5B2>/Restaurant_Website.git
+cd Restaurant_Website
